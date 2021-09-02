@@ -130,7 +130,7 @@ Lo primero que debemos hacer es abrir nuestra terminal, pero con **git bash**, y
 
 Impresionante, ahora te vas ahorrar varios segundo, y aumentar tu productividad.
 
-## Mas atajas
+## Mas atajos
 Si ademas de eso, si pensaste que con eso ibas hacer mas rapido, que pasaria si te dijiera que se puede reducir mas aun, vamos a ponerlo en practica, vamos abrir el **```git bash```** de nuevo, y vamos a copiar y a pegar esos comando uno por uno:
 ```git
 alias gb="git b"
